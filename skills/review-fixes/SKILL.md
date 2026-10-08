@@ -2,6 +2,7 @@
 name: review-fixes
 description: Fix and resolve MR/PR review comments one at a time, on GitLab (glab) or GitHub (gh). Use when the user asks to address or fix review comments, resolve review threads, work through an MR/PR review, or resumes "review-fixes".
 argument-hint: "[<MR|PR number> | docs/review/mr<N>-fixes.md]"
+disable-model-invocation: true
 license: MIT
 ---
 

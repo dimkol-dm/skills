@@ -2,6 +2,7 @@
 name: create-pr
 description: Analyze the current branch's changes, propose a pull/merge request title + short description, and create the PR/MR after the user approves. Accepts an optional target branch argument. Use when the user asks to open a PR/MR for the current branch or wants a PR title and description.
 argument-hint: "[<target-branch>]"
+disable-model-invocation: true
 license: MIT
 ---
 
