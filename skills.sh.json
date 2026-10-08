@@ -4,7 +4,7 @@
   "groupings": [
     {
       "title": "Code review",
-      "description": "Turn a branch into a well-written PR and clear its review feedback one commit at a time.",
+      "description": "Turn a branch into a well-written PR and clear its review feedback.",
       "skills": ["create-pr", "review-fixes"]
     }
   ]

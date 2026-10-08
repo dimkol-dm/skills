@@ -9,9 +9,9 @@
   <a href="https://github.com/xxsnakerxx/skills/stargazers"><img src="https://img.shields.io/github/stars/xxsnakerxx/skills" alt="GitHub stars"></a>
 </p>
 
-Agent skills for the code-review workflow — turn a branch into a well-written
-PR, then clear its review feedback one commit at a time. Self-contained, work
-with any agent that supports `skills`.
+Agent skills for the PR workflow — turn a branch into a well-written PR, clear
+its review feedback one commit at a time, and write QA notes a non-technical
+tester can act on. Self-contained, work with any agent that supports `skills`.
 
 ## Install
 
