@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://skills.sh/xxsnakerxx/skills"><img src="https://skills.sh/b/xxsnakerxx/skills" alt="skills.sh"></a>
-  <a href="https://github.com/xxsnakerxx/skills/actions/workflows/validate.yml"><img src="https://github.com/xxsnakerxx/skills/actions/workflows/validate.yml/badge.svg" alt="Validate"></a>
+  <a href="https://skills.sh/dimkol-dm/skills"><img src="https://skills.sh/b/dimkol-dm/skills" alt="skills.sh"></a>
+  <a href="https://github.com/dimkol-dm/skills/actions/workflows/validate.yml"><img src="https://github.com/dimkol-dm/skills/actions/workflows/validate.yml/badge.svg" alt="Validate"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-  <a href="https://github.com/xxsnakerxx/skills/stargazers"><img src="https://img.shields.io/github/stars/xxsnakerxx/skills" alt="GitHub stars"></a>
+  <a href="https://github.com/dimkol-dm/skills/stargazers"><img src="https://img.shields.io/github/stars/dimkol-dm/skills" alt="GitHub stars"></a>
 </p>
 
 Agent skills for the PR workflow — turn a branch into a well-written PR, clear
@@ -22,7 +22,7 @@ agent, or install everywhere:
 <summary><b>All agents (auto-detect)</b></summary>
 
 ```bash
-npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes
+npx skills@latest add dimkol-dm/skills -s create-pr review-fixes
 ```
 
 </details>
@@ -31,7 +31,7 @@ npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes
 <summary><b>Claude Code</b></summary>
 
 ```bash
-npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes -a claude-code
+npx skills@latest add dimkol-dm/skills -s create-pr review-fixes -a claude-code
 ```
 
 </details>
@@ -40,7 +40,7 @@ npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes -a claude-code
 <summary><b>opencode</b></summary>
 
 ```bash
-npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes -a opencode
+npx skills@latest add dimkol-dm/skills -s create-pr review-fixes -a opencode
 ```
 
 </details>
@@ -49,7 +49,7 @@ npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes -a opencode
 <summary><b>Codex</b></summary>
 
 ```bash
-npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes -a codex
+npx skills@latest add dimkol-dm/skills -s create-pr review-fixes -a codex
 ```
 
 </details>
@@ -58,7 +58,7 @@ npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes -a codex
 <summary><b>Cursor</b></summary>
 
 ```bash
-npx skills@latest add xxsnakerxx/skills -s create-pr review-fixes -a cursor
+npx skills@latest add dimkol-dm/skills -s create-pr review-fixes -a cursor
 ```
 
 </details>
